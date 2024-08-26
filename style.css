@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #544e4e;
+    background-color: #2d0330;
 }
 
 /* Navigation Bar */
@@ -12,7 +12,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px 50px;
-    background-color: #333;
+    background-color: rgb(247, 194, 148);
 }
 
 .navbar .logo img {
@@ -32,14 +32,14 @@ body {
 }
 
 .nav-links li a {
-    color: #d21a1a;
+    color: black;
     text-decoration: none;
     font-size: 18px;
     transition: color 0.3s ease;
 }
 
 .nav-links li a:hover {
-    color: #852211;
+    color: #1390af;
 }
 
 /* Portfolio Section */
@@ -48,7 +48,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 60px 20px;
-    background-color: #891a1a;
+    background-color:rgb(242, 218, 197);
 }
 
 .profile-image img {
@@ -72,7 +72,7 @@ body {
 
 .portfolio-details p {
     font-size: 18px;
-    color: #0fdc08;
+    color: #021501;
     line-height: 1.6;
     margin-bottom: 30px;
 }
@@ -80,8 +80,8 @@ body {
 .portfolio-btn {
     display: inline-block;
     padding: 15px 30px;
-    background-color: #130402;
-    color: #760404;
+    background-color: #150301;
+    color: #1a0404;
     text-decoration: none;
     border-radius: 5px;
     font-size: 18px;
@@ -90,13 +90,13 @@ body {
 }
 
 .portfolio-btn:hover {
-    background-color: #e5533d;
+    background-color: #0b0200;
 }
 
 /* About Section */
 #about {
     padding: 60px 20px;
-    background-color: #b90b0b;
+    background-color:rgb(250, 229, 195);
 }
 
 .about-container {
@@ -122,7 +122,7 @@ body {
 /* Services Section */
 #services {
     padding: 60px 20px;
-    background-color: #430202;
+    background-color:papayawhip;
     text-align: center;
 }
 
@@ -132,13 +132,13 @@ body {
 }
 
 #services h2 {
-    color: #0ddd0a;
+    color: #000900;
     font-size: 36px;
     margin-bottom: 20px;
 }
 
 #services p {
-    color: #28d709;
+    color: #020e00;
     font-size: 18px;
     line-height: 1.6;
     margin-bottom: 40px;
@@ -197,7 +197,7 @@ body {
 /* Portfolio Section */
 #portfolio {
     padding: 60px 20px;
-    background-color: #5a3232;
+    background-color: rgb(251, 247, 200);
     text-align: center;
 }
 
@@ -207,7 +207,7 @@ body {
 }
 
 #portfolio h2 {
-    color: #18e70d;
+    color: #010c00;
     font-size: 36px;
     margin-bottom: 20px;
 }
@@ -275,12 +275,12 @@ body {
 }
 
 .portfolio-btn:hover {
-    background-color: #e5533d;
+    background-color: rgb(249, 203, 163);
 }
 /* Contact Section */
 #contact {
     padding: 60px 20px;
-    background-color: #5e1a1a;
+    background-color:peachpuff;
     text-align: center;
 }
 
